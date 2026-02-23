@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdallabinfaied
 - 👀 I’m interested in Full Stack web development
-- 🌱 I have a youtube channel called [Kassala FullStack]([Kassala_FullStack](https://www.youtube.com/@KassalaFullstack))
+- 🌱 I have a youtube channel called [sudani coder([Kassala_FullStack](https://www.youtube.com/@sudani_coder))
 - 📫 How to reach me ...
 
 <!---
